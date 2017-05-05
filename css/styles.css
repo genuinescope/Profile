@@ -1,0 +1,97 @@
+#GmediaGallery_706 input {border-color:#cccccc;}
+#GmediaGallery_706 .ws-button {background-color:#ffffff;border-color:#e5e5e5;color:#000000;}
+#GmediaGallery_706 .ws-button:hover {background-color:#e5e5e5;border-color:#cccccc;color:#000000;}
+#GmediaGallery_706 .ws-soundCompactList,
+#GmediaGallery_706 .ws-soundCompactList .ws-soundList__item {border-color:#e5e5e5;}
+#GmediaGallery_706 .ws-cat {color:#000000;border-color:#e5e5e5;background:#ffffff;}
+#GmediaGallery_706 .ws-cat:hover {color:#000000;border-color:#cccccc;background:#e5e5e5;}
+
+#GmediaGallery_706 a.ws-link-dark {color:#000000;}
+#GmediaGallery_706 a.ws-link-dark:hover {color:#333333;}
+#GmediaGallery_706 a.ws-link-light:hover {color:#000000;}
+#GmediaGallery_706 .ws-have-background .ws-soundTitle__title span {color:#ffffff;background-color:#000000}
+#GmediaGallery_706 .ws-have-background .ws-soundTitle__title:hover span {color:#ffffff;background-color:#333333}
+#GmediaGallery_706 .ws-have-background .ws-soundTitle__secondary a:hover span {color:#ffffff;background-color:#000000}
+#GmediaGallery_706 .ws-ministats,
+#GmediaGallery_706 a.ws-ministats {color:#000000;}
+#GmediaGallery_706 a.ws-ministats:hover {color:#333333;}
+
+#GmediaGallery_706 .ws-artwork.ws-artwork-placeholder,
+.ws-playControls[data-id='GmediaGallery_706'] .ws-artwork.ws-artwork-placeholder { background-image: linear-gradient(135deg, #d503ab, #b1b1b1); }
+#GmediaGallery_706 wave:before {background-color:#a1a1a1;}
+#GmediaGallery_706 a:hover {color:#606060;}
+#GmediaGallery_706 a.ws-link-light {color:#b1b1b1;}
+#GmediaGallery_706 .ws-have-background .ws-soundTitle__secondary a span {color:#000000;background-color:#b1b1b1}
+#GmediaGallery_706 .ws-button-play {border-color:#d1d1d1;color:#606060;}
+#GmediaGallery_706 .ws-button-play:hover {color:#606060;border-color:#606060;}
+#GmediaGallery_706 .ws-type-light {color:#b1b1b1;}
+#GmediaGallery_706 .ws-soundTitle__categories {color:#c1c1c1;}
+#GmediaGallery_706 .ws-time.ws-track_time {color:#ffffff;}
+#GmediaGallery_706 .ws-g-dark {color:#b1b1b1;}
+.ws-playControls[data-id='GmediaGallery_706'] .ws-playbackSoundBadge__title {color:#202020;}
+#GmediaGallery_706 wave wave:before,
+#GmediaGallery_706 .ws-soundCompactList .ws-soundList__item .ws-item-progress {background-color:#C40D0D;}
+#GmediaGallery_706 .ws-time.ws-wave_time {color:#fff;}
+#GmediaGallery_706 .ws-button-active,
+#GmediaGallery_706 .ws-liked .ws-button-like { color: #71015b; }
+#GmediaGallery_706 .ws-button-active:hover
+#GmediaGallery_706 .ws-liked .ws-button-like:hover { color: #71015b; border-color: #71015b; }
+#GmediaGallery_706 .ws-button-play,
+#GmediaGallery_706 .ws-button-pause,
+#GmediaGallery_706 .ws-button-play:hover,
+#GmediaGallery_706 .ws-button-pause:hover { background-color: #C40D0D; }
+#GmediaGallery_706 .ws-button-play:active,
+#GmediaGallery_706 .ws-button-pause:active { border-color: #71015b; background-color: #71015b; }
+.ws-playControls[data-id='GmediaGallery_706'] .ws-volume__sliderBackground {background-color:#d503ab;}
+.ws-playControls[data-id='GmediaGallery_706'] .ws-playbackTimeline__timePassed { color: #71015b; }
+.ws-playControls[data-id='GmediaGallery_706'] .ws-volume__sliderProgress,
+.ws-playControls[data-id='GmediaGallery_706'] .ws-volume__sliderProgress::after {background-color: #71015b; }
+        #GmediaGallery_806 input {border-color:#cccccc;}
+#GmediaGallery_806 .ws-button {background-color:#ffffff;border-color:#e5e5e5;color:#000000;}
+#GmediaGallery_806 .ws-button:hover {background-color:#e5e5e5;border-color:#cccccc;color:#000000;}
+#GmediaGallery_806 .ws-soundCompactList,
+#GmediaGallery_806 .ws-soundCompactList .ws-soundList__item {border-color:#e5e5e5;}
+#GmediaGallery_806 .ws-cat {color:#000000;border-color:#e5e5e5;background:#ffffff;}
+#GmediaGallery_806 .ws-cat:hover {color:#000000;border-color:#cccccc;background:#e5e5e5;}
+
+#GmediaGallery_806 a.ws-link-dark {color:#000000;}
+#GmediaGallery_806 a.ws-link-dark:hover {color:#333333;}
+#GmediaGallery_806 a.ws-link-light:hover {color:#000000;}
+#GmediaGallery_806 .ws-have-background .ws-soundTitle__title span {color:#ffffff;background-color:#000000}
+#GmediaGallery_806 .ws-have-background .ws-soundTitle__title:hover span {color:#ffffff;background-color:#333333}
+#GmediaGallery_806 .ws-have-background .ws-soundTitle__secondary a:hover span {color:#ffffff;background-color:#000000}
+#GmediaGallery_806 .ws-ministats,
+#GmediaGallery_806 a.ws-ministats {color:#000000;}
+#GmediaGallery_806 a.ws-ministats:hover {color:#333333;}
+
+#GmediaGallery_806 .ws-artwork.ws-artwork-placeholder,
+.ws-playControls[data-id='GmediaGallery_806'] .ws-artwork.ws-artwork-placeholder { background-image: linear-gradient(135deg, #d503ab, #b1b1b1); }
+#GmediaGallery_806 wave:before {background-color:#a1a1a1;}
+#GmediaGallery_806 a:hover {color:#606060;}
+#GmediaGallery_806 a.ws-link-light {color:#b1b1b1;}
+#GmediaGallery_806 .ws-have-background .ws-soundTitle__secondary a span {color:#000000;background-color:#b1b1b1}
+#GmediaGallery_806 .ws-button-play {border-color:#d1d1d1;color:#606060;}
+#GmediaGallery_806 .ws-button-play:hover {color:#606060;border-color:#606060;}
+#GmediaGallery_806 .ws-type-light {color:#b1b1b1;}
+#GmediaGallery_806 .ws-soundTitle__categories {color:#c1c1c1;}
+#GmediaGallery_806 .ws-time.ws-track_time {color:#ffffff;}
+#GmediaGallery_806 .ws-g-dark {color:#b1b1b1;}
+.ws-playControls[data-id='GmediaGallery_806'] .ws-playbackSoundBadge__title {color:#202020;}
+#GmediaGallery_806 wave wave:before,
+#GmediaGallery_806 .ws-soundCompactList .ws-soundList__item .ws-item-progress {background-color:#C40D0D;}
+#GmediaGallery_806 .ws-time.ws-wave_time {color:#fff;}
+#GmediaGallery_806 .ws-button-active,
+#GmediaGallery_806 .ws-liked .ws-button-like { color: #71015b; }
+#GmediaGallery_806 .ws-button-active:hover
+#GmediaGallery_806 .ws-liked .ws-button-like:hover { color: #71015b; border-color: #71015b; }
+#GmediaGallery_806 .ws-button-play,
+#GmediaGallery_806 .ws-button-pause,
+#GmediaGallery_806 .ws-button-play:hover,
+#GmediaGallery_806 .ws-button-pause:hover { background-color: #C40D0D; }
+#GmediaGallery_806 .ws-button-play:active,
+#GmediaGallery_806 .ws-button-pause:active { border-color: #71015b; background-color: #71015b; }
+.ws-playControls[data-id='GmediaGallery_806'] .ws-volume__sliderBackground {background-color:#d503ab;}
+.ws-playControls[data-id='GmediaGallery_806'] .ws-playbackTimeline__timePassed { color: #71015b; }
+.ws-playControls[data-id='GmediaGallery_806'] .ws-volume__sliderProgress,
+.ws-playControls[data-id='GmediaGallery_806'] .ws-volume__sliderProgress::after {background-color: #71015b; }
+        
